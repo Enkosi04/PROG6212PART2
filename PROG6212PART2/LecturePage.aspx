@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Lecturer Claims - EduClaims</title>
+<title>Lecturer Claims - EduClaim</title>
 <style>
   body { font-family: Arial, sans-serif; background-color: #fff; margin:0; padding:20px; }
   h2 { color: #005a87; }
