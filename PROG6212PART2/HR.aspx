@@ -152,8 +152,8 @@
         <th>Claim ID</th>
         <th>Lecturer</th>
         <th>Lecture</th>
-        <th>Modules</th>
-        <th>Date</th>
+        <th>Module</th>
+        <th>Dates</th>
         <th>Amount</th>
         <th>Status</th>
         <th>Actions</th>
