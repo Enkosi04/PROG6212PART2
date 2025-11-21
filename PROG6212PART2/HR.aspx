@@ -156,7 +156,7 @@
         <th>Date</th>
         <th>Amount</th>
         <th>Status</th>
-        <th>Actions</th>
+        <th>Action</th>
       </tr>
     </thead>
     <tbody>
