@@ -135,7 +135,7 @@
 
 <!-- Section for Available Lectures List -->
 <div id="lecturesSection" style="display:none; margin-bottom:20px;">
-  <h3>Available Lectures</h3>
+  <h3>Available Lecture</h3>
   <ul id="lecturesList">
     <li>Lecture 1: Introduction to Programming</li>
     <li>Lecture 2:Advanced JavaScript and Web Development </li>
