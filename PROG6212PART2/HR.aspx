@@ -151,8 +151,8 @@
       <tr>
         <th>Claim ID</th>
         <th>Lecturer</th>
-        <th>Lecturer</th>
-        <th>Module</th>
+        <th>Lecture</th>
+        <th>Modules</th>
         <th>Date</th>
         <th>Amount</th>
         <th>Status</th>
