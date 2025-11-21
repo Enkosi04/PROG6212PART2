@@ -154,8 +154,8 @@
         <th>Lecture</th>
         <th>Module</th>
         <th>Date</th>
-        <th>Amounts</th>
-        <th>Status</th>
+        <th>Amount</th>
+        <th>Statuses</th>
         <th>Actions</th>
       </tr>
     </thead>
